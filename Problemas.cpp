@@ -122,7 +122,7 @@ void Problema6() {
     while (*pEntrada != '\0') {
 
         if (*pEntrada >= 'a' && *pEntrada <= 'z') {
-            *pSalida = *pEntrada - ('a' - 'A');
+            *pSalida = *pEntrada - (32);
         } else {
             *pSalida = *pEntrada;
         }
