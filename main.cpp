@@ -24,6 +24,14 @@ int main()
 
         case 10: Problema10(); break;
 
+        case 12: Problema12(); break;
+
+        case 14: Problema14(); break;
+
+        case 16: Problema16(); break;
+
+        case 18: Problema18(); break;
+
         default: cout << "Opcion no valida" << endl;
         }
     }

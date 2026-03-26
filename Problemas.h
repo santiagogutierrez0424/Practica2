@@ -19,4 +19,17 @@ void Problema8();
 int valorRomano(char c);
 int romanoAEntero(const char* romano);
 void Problema10();
+
+//Problema 12
+void Problema12();
+
+//Problema 14
+void Problema14();
+
+//Problema 16
+void Problema16();
+
+//Problema 18
+void Problema18();
+
 #endif
